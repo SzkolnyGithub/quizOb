@@ -1,0 +1,62 @@
+[
+   {
+      "pytanie": "Ile jest liter w alfabecie?",
+      "odp1": "A) 27",
+      "odp2": "B) 32",
+      "odp3": "C) 30",
+      "odp4": "D) 24",
+      "popOdp": "B"
+   },
+   {
+      "pytanie": "Ile nóg ma jesiotr zachodni?",
+      "odp1": "A) 0",
+      "odp2": "B) 2",
+      "odp3": "C) 6",
+      "odp4": "D) 4",
+      "popOdp": "A"
+   },
+   {
+      "pytanie": "Co jest PRAWDZIWĄ informacją o uranie?",
+      "odp1": "A) jest silnie elektroujemny",
+      "odp2": "B) nie występuje w Polsce",
+      "odp3": "C) reaguje z tlenem",
+      "odp4": "D) jest pierwiastkiem z grupy borowców",
+      "popOdp": "C"
+   },
+   {
+      "pytanie": "Która z wymienionych satelit jest w kosmosie najkrócej (została wyniesiona niedawno)?",
+      "odp1": "A) EPSILON R/B",
+      "odp2": "B) STARLINK-31238",
+      "odp3": "C) TELEKOMSAT 113BT",
+      "odp4": "D) STARLINK-G6-39 STACK",
+      "popOdp": "D"
+   },
+   {
+      "pytanie": "Ile jest opisanych gatunków drzew na Ziemi?",
+      "odp1": "A) 10 mil",
+      "odp2": "B) 100 mil",
+      "odp3": "C) 2 mil",
+      "odp4": "D) 58,75 mil",
+      "popOdp": "C"
+   },
+   {
+      "pytanie": "Ilu ludzi dotychczas było w kosmosie?",
+      "odp1": "A) 575",
+      "odp2": "B) 571",
+      "popOdp": "B"
+   },
+   {
+      "pytanie": "Czy da się przyżyć zatrucie cyjankiem?",
+      "odp1": "A) Nie",
+      "odp2": "B) Tak",
+      "popOdp": "A"
+   },
+   {
+      "pytanie": "Który z tych ataków jest zabroniony w chińskim ju jitsu?",
+      "odp1": "A) Powalenie go",
+      "odp2": "B) Wyrzucenie za ring",
+      "odp3": "C) Na szyję",
+      "odp4": "D) W ramię",
+      "popOdp": "C"
+   }
+]
